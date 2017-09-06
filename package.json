@@ -1,0 +1,26 @@
+{
+  "name": "idiosyncrasy",
+  "version": "0.1.0",
+  "description": "A new package created with mnp",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sobesio/idiosyncrasy.git"
+  },
+  "keywords": [
+    "mnp"
+  ],
+  "author": "Anton <anton@sobesednik.media>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sobesio/idiosyncrasy/issues"
+  },
+  "homepage": "https://github.com/sobesio/idiosyncrasy#readme",
+  "devDependencies": {
+    "zoroaster": "0.4.4"
+  }
+}
